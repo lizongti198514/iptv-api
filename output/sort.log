@@ -896,6 +896,7 @@ Name: CCTV-10, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/50000000100
 Name: CCTV-10, URL: http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010203/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-10, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000026367/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-10, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225628/2/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-11, URL: http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=YanG-1989$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-11, URL: http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000344/index.m3u8?IASHttpSessionId=$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-11, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1831,6 +1832,7 @@ Name: 北京卫视, URL: http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com
 Name: 北京卫视, URL: http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 北京卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 北京卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/8186688740528366039/index.m3u8?channel-id=ystenlive&Contentid=8186688740528366039&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225702/2/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖北卫视, URL: http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265023/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=YanG-1989$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖北卫视, URL: http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000325/index.m3u8?IASHttpSessionId=$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖北卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010057/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -2016,6 +2018,7 @@ Name: 黑龙江卫视, URL: http://[2409:8087:74d9:21::6]:80/270000001322/699001
 Name: 黑龙江卫视, URL: http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEHwpSHKc5p-bHJfhpIWFig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5Y8rTELLykZJHp-bmY2YW%2CEND$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 黑龙江卫视, URL: http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 黑龙江卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025203/index.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 黑龙江卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225699/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 安徽卫视, URL: http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265025/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265025&livemode=1&stbId=YanG-1989$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 安徽卫视, URL: http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000328/index.m3u8?IASHttpSessionId=$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 安徽卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010041/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
@@ -3007,6 +3010,7 @@ Name: 江苏卫视, URL: http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.
 Name: 江苏卫视, URL: http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010059/main.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 江苏卫视, URL: http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010059/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 江苏卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018509/index.m3u8?channel-id=bestzb&Contentid=5000000010000018509&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 江苏卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225737/2/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 江西卫视, URL: http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265032/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=YanG-1989$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 江西卫视, URL: http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000335/index.m3u8?IASHttpSessionId=$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 江西卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010060/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
